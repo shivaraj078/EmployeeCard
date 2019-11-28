@@ -71,7 +71,7 @@ var employees = [
         emp_name : "Britto",
         emp_photo : "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
         emp_age : 22, 
-        emp_gender : "female",
+        emp_gender : "male",
         emp_company : "capgemini",
         emp_salary : 50000,
         emp_designation : "angular developer",
